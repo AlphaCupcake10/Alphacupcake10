@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @AlphaCupcake10
+- Frontend Developer
+- Frameworks & Libraries : ReactJS,ThreeJS,ReactThreeFiber
 - 👀 I’m skilled at developing games in Unity
 - 🌱 Programming languages known : C, C++, C#, Python
 - 🍞 I am also proficient in making 3D artwork and assets along with both 2D and 3D Motion Graphics.
